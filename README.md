@@ -1,1 +1,1 @@
-"# architecture-components-mvvm-livedata-sample" 
+# architecture-components-mvvm-livedata-sample 
